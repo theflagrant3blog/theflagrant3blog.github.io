@@ -4,4 +4,8 @@ title: Contact
 permalink: /contact
 ---
 
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Millennial%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/Millennial/issues/new).
+This page is run by [Anant Moudgalya](https://www.linkedin.com/in/anant-moudgalya/) and [Ayman Shafi](https://www.linkedin.com/in/ayman-shafi/).
+
+You may reach us via email as follows:
+- Anant: anant9798[at]gmail[dot]com 
+- Ayman: aymanshafi01[at]gmail[dot]com
